@@ -1,0 +1,19 @@
+/* App.css */
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 25%; /* Adjust the width as needed */
+  background-color: black;
+}
+
+.content {
+  margin-left: 20%;
+  width: 80%;
+}
+
+.sub-content {
+  padding: 20px; /* Adjust the padding as needed */
+}
